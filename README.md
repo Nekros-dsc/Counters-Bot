@@ -1,5 +1,5 @@
 <h1 align="center">
- 🔞NSFW Bot⚙
+ 🔊Counters Bot⚙
 </h1>
 
 ---
