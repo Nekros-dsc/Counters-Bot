@@ -11,7 +11,7 @@
 - [🎉・Setting up](#setup)
 - [⚙・Config](#config)
 ## <a id="deploys"></a>☄ » Deploys
-> [Deploy with REPLIT](https://replit.com/github/Nekros-dsc/Nsfw-Bot)
+> [Deploy with REPLIT](https://replit.com/github/Nekros-dsc/Counters-Bot)
 
 ## <a id="features"></a>🛠 » Features
 
